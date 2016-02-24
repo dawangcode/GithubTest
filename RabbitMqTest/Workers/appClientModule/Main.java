@@ -1,17 +1,13 @@
+
 public class Main {
+
 
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-		// InputStreamReader stdin = new InputStreamReader(System.in);// º¸≈Ã ‰»Î
-		// BufferedReader bufin = new BufferedReader(stdin);
-		// bufin.readLine();
-		
-		//SendClient.SendMsg();
-		//ssssssggg
-		RPCClient.Send();
+		//ReadClient.ReadMsg();
+		RPCServer.ReadAndResponse();
 	}
-	
 
 
 	/*
