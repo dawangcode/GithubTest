@@ -8,7 +8,7 @@ public class Main {
 		// bufin.readLine();
 		
 		//SendClient.SendMsg();
-		
+		//sss
 		RPCClient.Send();
 	}
 	
